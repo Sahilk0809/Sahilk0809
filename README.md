@@ -1,5 +1,4 @@
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
-<img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <h1 align="center">Hi 👋, I'm Sahil Kashyap</h1>
 <h3 align="center"> Flutter Developer </h3>
 
